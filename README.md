@@ -35,7 +35,7 @@
 <br>
 
 # Pointing
-![Pointing](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/pointing.png)
+![Pointing](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/pointing2.png)
 
 ## Service & Port:
 <br>
