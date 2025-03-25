@@ -76,7 +76,7 @@
 - Optional [install Bot Telegram Xolpanel](https://github.com/givpn/AutoScriptXray/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
   
 # Menu
-![Service Status](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/menu2.png)
+![Service Status](https://raw.githubusercontent.com/wahyuyaw/vps/master/image/menu2.png)
 
 # Service Status
 ![Service Status](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/service2.png)
