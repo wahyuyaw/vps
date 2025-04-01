@@ -512,7 +512,7 @@ wget -O cek-vless "https://raw.githubusercontent.com/wahyuyaw/coba/master/xray/c
 # trojan
 wget -O add-tr "https://raw.githubusercontent.com/wahyuyaw/coba/master/xray/add-tr.sh" && chmod +x add-tr
 wget -O trialtrojan "https://raw.githubusercontent.com/wahyuyaw/coba/master/xray/trialtrojan.sh" && chmod +x trialtrojan
-wget -O del-tr "https://raw.githubusercontent.com/givpn/wahyuyaw/coba/master/xray/del-tr.sh" && chmod +x del-tr
+wget -O del-tr "https://raw.githubusercontent.com/wahyuyaw/coba/master/xray/del-tr.sh" && chmod +x del-tr
 wget -O renew-tr "https://raw.githubusercontent.com/wahyuyaw/coba/master/xray/renew-tr.sh" && chmod +x renew-tr
 wget -O cek-tr "https://raw.githubusercontent.com/wahyuyaw/coba/master/xray/cek-tr.sh" && chmod +x cek-tr
 
