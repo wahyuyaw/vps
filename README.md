@@ -21,8 +21,6 @@
 - UNDER ATTACK MODE : OFF<br>
 <br>
 
-# Pointing
-![Pointing](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/pointing2.png)
 
 ## Service & Port:
 <br>
@@ -47,15 +45,10 @@
 - Shadowsocks gRPC         : 443<br>
 <br>
   
-(https://gitlab.com/Exe302) + Slowdns by [SL](https://github.com/fisabiliyusri)
-- Optional [install Panel Webmin + ADS Block](https://github.com/givpn/AutoScriptXray/tree/master/helium) Helium version 3.0 by [Abi Darwish](https://github.com/abidarwish)
-- Optional [install Bot Telegram Xolpanel](https://github.com/givpn/AutoScriptXray/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
-  
+
 # Menu
 ![Service Status](https://raw.githubusercontent.com/wahyuyaw/vps/master/image/menu2.png)
 
-# Service Status
-![Service Status](https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/service2.png)
 
 - Step 1 for (ubuntu) directly install
 ```
