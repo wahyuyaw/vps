@@ -7,7 +7,7 @@
 		content="width=device-width,
 				initial-scale=1.0" />
 	<title>
-		Auto script VPS givpn
+		Auto script VPS wahyuyaw
 	</title>
 	<link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/givpn/givpn/master/favicon.ico">
 	<style>
@@ -27,7 +27,7 @@
 
 <body>
 <center>
-	<h1>givpn</h1>
+	<h1>wahyuyaw</h1>
 	<h2>Auto script VPS</h2>
 	<div>
 		<button onclick="darkMode()">Darkmode</button>
@@ -50,15 +50,12 @@
 			    </p>
 </div>
 		<p align="center">
-            <a href="https://paypal.me/givpn11" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-yellow"></a>
-			<a href="https://raw.githubusercontent.com/givpn/AutoScriptXray/master/image/qris-givpn.jpg" target="_blank"><img src="https://img.shields.io/badge/Donate-QRIS-red"></a>
-			<a href="https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i" target="_blank"><img src="https://img.shields.io/badge/Donate-Bitcoin-orange"></a>
-			<a href="https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554" target="_blank"><img src="https://img.shields.io/badge/Donate-Ethereum-blue"></a>
+            </a>
 			    </p>
             </footer>
         </div>
 		<p align="center">
-  <a><img src="https://img.shields.io/badge/givpn-Auto_script_VPS%202023-blue" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/wahyuyaw-Auto_script_VPS%202023-blue" style="max-width:200%;">
     </p>
 </body>
 </html>
