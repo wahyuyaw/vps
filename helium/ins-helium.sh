@@ -2,7 +2,7 @@
 # =========================================
 # Quick Setup | Script Setup Manager
 # Edition : Stable Edition 1.0
-# Auther  : givpn
+# Auther  : wahyuyaw
 # Kuota Habisss
 # (C) Copyright 2023
 # =========================================
